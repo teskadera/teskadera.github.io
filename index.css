@@ -1,0 +1,10 @@
+.bubblewrap {
+  border-radius: 5px;
+  border-color: rgb(100, 149, 237);
+  background-color: rgba(100, 149, 237, 0.1);
+  width: 45vw;
+  min-height: 35vw;
+  height: auto;
+  margin: 20px;
+  padding: 20px;
+}
